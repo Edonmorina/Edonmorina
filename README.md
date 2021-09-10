@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I'm currenctly working on a touristic cross-platform mobile application.
+- 🔭 I'm currently working on a touristic cross-platform mobile application.
 - 🌱 I’m currently learning everything (Focusing a little bit more towards mobile).
 - 🥅 2021 Goals: Learn as much as possible.
 
@@ -10,8 +10,8 @@
 
 ## 📧 Email : edonmorinaaa@hotmail.com
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
