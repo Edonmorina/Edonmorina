@@ -9,8 +9,8 @@
 ### Connect with me:
 
 
-### <img align="left" alt="Linkedin" width="36"<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-email-notifications-justicon-flat-justicon-1.png"/>  edonmorinaaa@hotmail.com </img>
-### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/fluency/48/000000/linkedin.png" > https://www.linkedin.com/in/edon-morina/ </img>
+### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-email-notifications-justicon-flat-justicon-1.png"/></img>  edonmorinaaa@hotmail.com 
+### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/fluency/48/000000/linkedin.png" ></img> https://www.linkedin.com/in/edon-morina/ 
 
 </br>
 
