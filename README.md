@@ -10,7 +10,7 @@
 
 
 ### 📧 - edonmorinaaa@hotmail.com
-### Linkedin - https://www.linkedin.com/in/edon-morina/
+### https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png - https://www.linkedin.com/in/edon-morina/
 
 </br>
 
