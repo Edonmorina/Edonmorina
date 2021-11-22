@@ -10,7 +10,9 @@
 
 
 ### 📧 - edonmorinaaa@hotmail.com
-### https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png - https://www.linkedin.com/in/edon-morina/
+### <h1> <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
+  width="128"
+              height="128"</h1> - https://www.linkedin.com/in/edon-morina/
 
 </br>
 
