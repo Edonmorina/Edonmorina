@@ -9,8 +9,8 @@
 ### Connect with me:
 
 
-### 📧 - edonmorinaaa@hotmail.com
-### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/fluency/48/000000/linkedin.png" >- https://www.linkedin.com/in/edon-morina/
+### 📧  edonmorinaaa@hotmail.com
+### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/fluency/48/000000/linkedin.png" > https://www.linkedin.com/in/edon-morina/
 
 </br>
 
