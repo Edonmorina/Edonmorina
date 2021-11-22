@@ -10,7 +10,7 @@
 
 
 ### 📧 - edonmorinaaa@hotmail.com
-### <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Free-Download-PNG.png" width="26"> - https://www.linkedin.com/in/edon-morina/
+### <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-PNG-Picture.png" width="26"> - https://www.linkedin.com/in/edon-morina/
 
 </br>
 
