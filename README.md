@@ -18,7 +18,7 @@
 ### Languages and Tools:
 <!-- <img src="https://img.icons8.com/color/48/000000/powershell.png"/>  -->
 
-<img align="left" alt="Java" width="36px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v1.png" />
+<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="Java" width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img align="left" alt="Flutter" width="36px"src="https://img.icons8.com/color/26/000000/flutter.png"/>
 <img align="left" alt="Firebase" width="36px" src="https://img.icons8.com/color/100/000000/firebase.png"/>
