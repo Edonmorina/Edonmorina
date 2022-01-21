@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I'm currently working on a touristic cross-platform mobile application.
-- 🌱 I’m currently learning everything (Focusing a little bit more towards mobile developing).
-- 🥅 2021 Goals: Learn as much as possible.
+- 🔭 I'm currently working on a Web App called Quote Me!.
+- 🌱 I’m currently learning everything (Focusing a little bit more towards web development).
+- 🥅 2022 Goals: Learn as much as possible.
 
 ### Connect with me:
 
