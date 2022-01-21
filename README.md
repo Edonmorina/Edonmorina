@@ -10,7 +10,7 @@
 
 
 ### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-email-notifications-justicon-flat-justicon-1.png"/></img>  edonmorinaaa@hotmail.com 
-### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/fluency/48/000000/linkedin.png" ></img> https://www.linkedin.com/in/edon-morina/ 
+### <img align="left" alt="Linkedin" width="36" src="https://img.icons8.com/fluency/48/000000/linkedin.png" ></img> <a href="https://www.linkedin.com/in/edon-morina/" target="_blank" >https://www.linkedin.com/in/edon-morina/</a> 
 
 </br>
 
