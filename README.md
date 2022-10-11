@@ -18,7 +18,8 @@
 ### Languages and Tools:
 <!-- <img src="https://img.icons8.com/color/48/000000/powershell.png"/>  -->
 
-<img align="left" alt="Flutter" width="36px"src="https://img.icons8.com/color/26/000000/flutter.png"/>
+
+<img align="left" alt="Flutter" width="36px" src="https://img.icons8.com/color/26/000000/flutter.png" />
 <img align="left" alt="React.js" width="36px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 <img align="left" alt="Dart" width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img align="left" alt="JavaScript" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
