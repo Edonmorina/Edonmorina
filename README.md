@@ -18,14 +18,14 @@
 ### Languages and Tools:
 <!-- <img src="https://img.icons8.com/color/48/000000/powershell.png"/>  -->
 
-<img align="left" alt="Java" width="36px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="Java" width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img align="left" alt="Flutter" width="36px"src="https://img.icons8.com/color/26/000000/flutter.png"/>
-<img align="left" alt="Firebase" width="36px" src="https://img.icons8.com/color/100/000000/firebase.png"/>
+<img align="left" alt="React.js" width="36px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img align="left" alt="Dart" width="36px" src="https://img.icons8.com/color/48/000000/dart.png"/>
+<img align="left" alt="JavaScript" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="Java" width="36px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="HTML5" width="36px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" alt="CSS3" width="36px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="React.js" width="36px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img align="left" alt="Firebase" width="36px" src="https://img.icons8.com/color/100/000000/firebase.png"/>
 <img align="left" alt="Git" width="36px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://img.icons8.com/material-outlined/24/000000/github.png" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
